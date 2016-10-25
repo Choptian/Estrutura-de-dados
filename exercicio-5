@@ -1,0 +1,15 @@
+struct Stack {
+private:
+static const int MAX = 10; // incremente caso necessário
+int top; // -1 para pilha vazia
+int data[MAX];
+
+public:
+Stack();
+virtual ~Stack();
+void push(int num);
+int peek();
+int pop();
+int size();
+void print();
+};
