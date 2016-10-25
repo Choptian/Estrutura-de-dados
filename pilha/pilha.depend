@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1476840230 source:d:\desenvolvimento\cpp\pilha_estatica\main.cpp
+	<iostream>
+	"StackStatic.h"
+	"StackDynamic.h"
+
+1476840246 source:d:\desenvolvimento\cpp\pilha_estatica\src\stackstatic.cpp
+	"StackStatic.h"
+
+1476834227 d:\desenvolvimento\cpp\pilha_estatica\include\stackstatic.h
+	<iostream>
+
+1476840286 source:d:\desenvolvimento\cpp\pilha_estatica\src\stackdynamic.cpp
+	"StackDynamic.h"
+
+1476840162 d:\desenvolvimento\cpp\pilha_estatica\include\stackdynamic.h
+	<iostream>
+	<string>
+
+1476840230 source:d:\desenvolvimento\cpp\pilha\main.cpp
+	<iostream>
+	"StackStatic.h"
+	"StackDynamic.h"
+
+1476834227 d:\desenvolvimento\cpp\pilha\include\stackstatic.h
+	<iostream>
+
+1476840162 d:\desenvolvimento\cpp\pilha\include\stackdynamic.h
+	<iostream>
+	<string>
+
+1476840286 source:d:\desenvolvimento\cpp\pilha\src\stackdynamic.cpp
+	"StackDynamic.h"
+
+1476840303 source:d:\desenvolvimento\cpp\pilha\src\stackstatic.cpp
+	"StackStatic.h"
+
